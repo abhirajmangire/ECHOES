@@ -1,0 +1,6 @@
+{
+  "name": "Echoes.Runtime",
+  "rootNamespace": "Echoes",
+  "references": [ "Unity.InputSystem" ],
+  "autoReferenced": true
+}
